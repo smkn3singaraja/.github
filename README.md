@@ -1,2 +1,4 @@
-# .github
-README.md
+# SMK Negeri 3 Singaraja
+
+## 📍 Lokasi 
+Singaraja, Bali, Indonesia
